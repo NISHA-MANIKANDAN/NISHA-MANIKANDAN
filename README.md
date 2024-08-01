@@ -16,5 +16,7 @@ I am a full-stack developer and electronics engineering student passionate about
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NISHA-MANIKANDAN&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://leetcode.com/u/NISHAMANIKANDAN/"><img src="https://leetcard.jacoblin.cool/NISHAMANIKANDAN" alt="LeetCode Stats"></a>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
