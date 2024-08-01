@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am a full-stack developer and electronics engineering student passionate about technology, programming, and building innovative solutions.<br><br>- 🎓 Currently studying Electronics Engineering at BANNARI AMMAN INSTITUTE OF TECHNOLOGY.<br>
 
 
